@@ -24,7 +24,7 @@ Pittsburgh, Panthers, PITT, Atlantic, 1C2957, CDB87D, 57, PA, PA.OH.WV;
 Hamilton West, Hornets, HWS, Atlantic, DC4405, 000000, 95, VA, VA;
 Syracuse, Orange, SYR, Atlantic, D44500, 6F777D, 80, NY, NY;
 Georgia Tech, Yellow Jackets, GTECH, Atlantic, B3A369, 003057, 63, GA, GA;
-Louisville, Cardinals, LOU, Atlantic, AD0000, 000000, 82, KY, KY.OH;
+Trenton, Tornadoes, THS, Atlantic, AD0000, 000000, 82, KY, KY.OH;
 Wake Forest, Demon Deacons, WAKE, Atlantic, A67F31, 000000, 70, NC, NC;
 Steinert, Spartans, SHS, Atlantic, 18453B, FFFFFF, 95, NC, AL.AZ.ID.IL.IN.GA.KS.LA.ME.MD.MA.MI.MN.MS.MO.MT.NE.NV.NJ.OH.OK.OR.PA.TN.TX.UT.VT.VA.NC.NY.FL.CA.SC;
 Nottingham, Northstars, NHS, Atlantic, 00274C, FFCB05, 95, NC, NC.SC;
