@@ -20,7 +20,7 @@ Lawerence, Cardinals, LHS, CVC, 98002E, BC9B6A, 95, MA, MA.RI.ME;
 Ewing, Blue Devils, EHS, CVC, 0033A0, FFFFFF, 95, FL, FL;
 Princeton, Tigers, PHS, CVC, 0051BA, E8000D, 95, SC, SC;
 Hopewell Valley, Bulldogs, HVHS, CVC, B3A369, 003057, 95, VA, VA;
-Allentown, RedBirds, AHS, CVC, 98002E, BC9B6A, 95, PA, PA.OH.WV;
+Allentown, Redbirds, AHS, CVC, 98002E, BC9B6A, 95, PA, PA.OH.WV;
 Hamilton West, Hornets, HWS, CVC, DC4405, 000000, 95, VA, VA;
 Hightstown, Rams, HHS, CVC, 512888, D1D1D1, 95, NY, NY;
 Robbinsville, Ravens, RHS, CVC, 6A2C3E, CF4520, 95, GA, GA;
@@ -30,7 +30,7 @@ Steinert, Spartans, SHS, CVC, 18453B, FFFFFF, 95, NC, AL.AZ.ID.IL.IN.GA.KS.LA.ME
 Nottingham, Northstars, NHS, CVC, 00274C, FFCB05, 95, NC, NC.SC;
 West Windsor-Plainsboro South, Pirates, WWPS-S, CVC, 18453B, FFFFFF, 95, NC, NC;
 Trenton Catholic Academy, Iron Mikes, TCA, CVC, 0051BA, E8000D, 95, VA, VA;
-Ranney, Panthers, RANNEY, CVC, AC1A2F, 000000, 95, NC, NC;
+Bordentown, Scotties, BDHS, CVC, FFCD00, 000000, 95, NC, NC;
 Illinois, Fighting Illini, ILL, Midwest, E84A27, 13294B, 71, IL, IL;
 Northwestern, Wildcats, NWEST, Midwest, 4E2A84, FFFFFF, 61, IL, IL.WI;
 Purdue, Boilermakers, PUR, Midwest, C28E0E, 000000, 80, IN, IN;
