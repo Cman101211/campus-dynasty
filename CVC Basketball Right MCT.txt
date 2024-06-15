@@ -79,7 +79,7 @@ Houston, Cougars, HOU, South, C8102E, FFFFFF, 91, TX, TX;
 Southern Methodist, Mustangs, SMU, South, 0033A0, C8102E, 65, TX, TX;
 Louisiana-Lafayette, Ragin Cajuns, ULL, South, CE181E, F18C21, 52, LA, LA;
 Louisiana Tech, Bulldogs, LTU, South, ED1E24, 000092, 43, LA, LA;
-Oregon, Ducks, ORE, Pacific, 62A70F, FEE123, 82, OR, OR;
+Oregon, Ducks, ORE, Midwest, 62A70F, FEE123, 82, OR, OR;
 Oregon State, Beavers, OSU, Pacific, DC4405, 000000, 60, OR, OR;
 Colorado, Buffaloes, COL, Pacific, CFB87C, 000000, 64, CO, CO;
 Utah, Utes, UTAH, Pacific, CC0000, 808080, 70, UT, UT.WY.ID;
